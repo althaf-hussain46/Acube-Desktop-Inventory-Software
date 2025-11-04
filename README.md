@@ -1,4 +1,4 @@
-# 🧾 Inventory Software for Retail Shop (ISFRS)
+<h1 align="center"> 🧾 Inventory Software for Retail Shop (ISFRS) </h1>
 
 A **desktop-based Python application** developed to manage the **inventory system of a retail footwear shop**.
 This project automates daily operations like **sales, purchase, and stock management**, ensuring accuracy and efficiency for small businesses.
