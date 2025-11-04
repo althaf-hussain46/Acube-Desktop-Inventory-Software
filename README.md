@@ -143,6 +143,65 @@ ISFRS uses a **Relational Database Model** with:
 
 ---
 
+## 🏁 Screenshots
+<br>
+<br>
+<br>
+<img width="1571" height="855" alt="image" src="https://github.com/user-attachments/assets/3287a5f3-c4e7-4310-9e15-f5c38ad37d02" />
+<br>
+<br>
+<br>
+<img width="1560" height="933" alt="image" src="https://github.com/user-attachments/assets/9b5b4aa0-f30a-4760-b3cc-148b71147c01" />
+<br>
+<br>
+<br>
+<img width="1596" height="989" alt="image" src="https://github.com/user-attachments/assets/77b29dc7-44cb-4430-a9a1-21033863105c" />
+<br>
+<br>
+<br>
+<img width="1574" height="991" alt="image" src="https://github.com/user-attachments/assets/7d044db1-a631-439c-9978-35b7e40dc82b" />
+<br>
+<br>
+<br>
+<img width="1619" height="976" alt="image" src="https://github.com/user-attachments/assets/0e9f6f3e-f684-46b6-8093-c5ff49d2c6fc" />
+<br>
+<br>
+<br>
+<img width="1568" height="985" alt="image" src="https://github.com/user-attachments/assets/62ddfced-a51d-47f3-91f6-bc8e1532a02e" />
+<br>
+<br>
+<br>
+<img width="1611" height="993" alt="image" src="https://github.com/user-attachments/assets/85c9542c-330f-4f5b-ab9c-32a676d1c943" />
+<br>
+<br>
+<br>
+<img width="1626" height="1005" alt="image" src="https://github.com/user-attachments/assets/e0157e98-0247-4b07-a71a-730f242ac950" />
+<br>
+<br>
+<br>
+<img width="1607" height="1000" alt="image" src="https://github.com/user-attachments/assets/9a7d3832-779c-4210-a2f1-0c9adb6c549e" />
+<br>
+<br>
+<br>
+<img width="1622" height="969" alt="image" src="https://github.com/user-attachments/assets/b2eea1ac-7238-41b5-8835-56961d1b0200" />
+<br>
+<br>
+<br>
+<img width="1619" height="986" alt="image" src="https://github.com/user-attachments/assets/23a5ede3-c057-45cd-9999-05123c5f42f8" />
+<br>
+<br>
+<br>
+<img width="1614" height="982" alt="image" src="https://github.com/user-attachments/assets/86f9099a-7772-4b3a-aca2-fe1c2b961cc3" />
+<br>
+<br>
+
+
+
+
+
+
+
+
 ## 🏁 Conclusion
 
 The **Inventory Software for Retail Shop (ISFRS)** effectively digitizes inventory operations, minimizing manual work and ensuring stock accuracy.
